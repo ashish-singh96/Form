@@ -1,0 +1,10 @@
+
+.center{
+    text-align: center;
+    background-color: aqua;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
